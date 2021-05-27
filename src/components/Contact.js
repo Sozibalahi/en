@@ -14,7 +14,7 @@ const Contact = () => {
           <div className="row justifyConter">
             <div className="col-6">
               <div className="contactSection-logo">
-                <h1>Sozib <span>.<span> ALahi</h1>
+                <h1> Sozib <span>.</span> ALahi </h1>
               </div>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
