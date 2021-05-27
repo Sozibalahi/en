@@ -3,7 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+.contactSection-logo h1 {
+    font-size: 40px;
+    color: #fff;
+}
 body {
   font-family: "Poppins", sans-serif;
 }
